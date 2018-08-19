@@ -1,0 +1,81 @@
+.header{
+    margin: 10px 0 ;
+    display: flex;
+    align-items: center;
+}
+.information{
+    color: #0e4194 !important;
+    font-family:PT_Sans-Web-Regular;
+    font-size: 16px;
+    text-align: right;
+}
+.name{
+    font-family: MyriadPro-Regular;
+    font-size: 24px;
+}
+.foto{
+    width: 50%;
+    float: right;
+}
+i.fa{
+    color: #1594cc !important;
+    margin-right: 10px;
+    font-size: 150%;
+}
+span{
+    color: #1594cc;
+    margin-right: 10px;
+}
+i.fa-github,i.fa-map-marker{
+    font-size: 30px;
+}
+i.fa-mobile{
+    font-size: 30px;
+    margin-left: 3px;
+}
+.info .position{
+    margin: 0;
+    font-size: 14px;
+    align-items: baseline;
+}
+.position {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.position.icon{
+    margin-bottom: 5px;
+    align-items: inherit;
+}
+.position.icon p{
+    margin:10px 0 5px 3px;
+}
+.line{
+    border-bottom: 2px solid #398ec9;
+}
+.education.position{
+    align-items: baseline;
+}
+.organisation div.information{
+    font-size: 14px;
+}
+a,p.education_name{
+    color: #0e4194 !important;
+    font-size: 16px;
+}
+ul{
+    font-size: 14px;
+    list-style:square ;
+    list-style-position: inside;
+    padding-left: 0px;
+    margin: 0 !important;
+}
+ul li{
+    padding-bottom:5px;
+}
+.communication{
+    margin-top: 5px;
+}
+
+

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: PT_Sans-Web-Regular;
+    src:url(../Fonts/PT_Sans/PT_Sans-Web-Regular.ttf);
+}
+@font-face {
+    font-family:Georgia_Italic;
+    src:url(../Fonts/Georgia_Italic.ttf);
+}@font-face {
+    font-family:PT_Sans-Web-BoldItalic;
+    src:url(../Fonts/PT_Sans/PT_Sans-Web-BoldItalic.ttf);
+}
+@font-face {
+    font-family:MyriadPro-Regular;
+    src:url(../Fonts/MyriadPro-Regular.otf);
+}

@@ -1,0 +1,79 @@
+/*!*Medium Devices,Desktop*!*/
+
+
+
+/*!*Extra Small Devices,Phones*!*/
+/*@media only screen and (max-width:480px){*/
+    /*.foto {*/
+        /*width: 80%;*/
+    /*}*/
+    /*.information{*/
+        /*font-size: 12px;*/
+        /*padding-left:  0 !important;*/
+    /*}*/
+    /*.name{*/
+        /*font-size: 20px;*/
+    /*}*/
+    /*i.fa{*/
+        /*font-size: 80%;*/
+    /*}*/
+    /*i.fa-mobile,i.fa-map-marker,i.fa-github{*/
+        /*font-size: 130%;*/
+    /*}*/
+    /*.position.icon p{*/
+        /*margin:0 0 5px 3px;*/
+    /*}*/
+    /*.info p{*/
+        /*font-size: 14px;*/
+    /*}*/
+    /*.organisation div.information{*/
+        /*font-size: 14px;*/
+    /*}*/
+    /*a,p.education_name{*/
+        /*font-size: 16px;*/
+    /*}*/
+    /*ul {*/
+        /*font-size: 14px;*/
+    /*}*/
+
+/*}*/
+/*@media only screen and (max-width: 400px)  {*/
+    /*.header{*/
+        /*margin: 30px 0 10px;*/
+    /*}*/
+    /*.information{*/
+        /*font-size: 10px;*/
+
+    /*}*/
+    /*.name{*/
+        /*font-size: 16px;*/
+    /*}*/
+    /*i.fa{*/
+        /*font-size: 70%;*/
+        /*margin-right: 7px;*/
+    /*}*/
+    /*i.fa-mobile,i.fa-map-marker{*/
+        /*font-size: 110%;*/
+    /*}*/
+    /*.info p{*/
+        /*font-size: 12px;*/
+        /*margin-bottom: 5px;*/
+    /*}*/
+    /*.position{*/
+        /*margin: 10px 0;*/
+    /*}*/
+    /*.organisation div.information{*/
+        /*font-size: 12px;*/
+    /*}*/
+    /*a,p.education_name{*/
+        /*font-size: 14px;*/
+    /*}*/
+    /*ul {*/
+        /*font-size: 12px;*/
+    /*}*/
+    /*ul li{*/
+        /*padding:0 0 5px;*/
+    /*}*/
+
+
+/*}*/
